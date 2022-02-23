@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/camera-app/static/css/main.c2bbc23d.css",
+    "main.js": "/camera-app/static/js/main.e9a0a123.js",
+    "static/js/787.c9cd8fe5.chunk.js": "/camera-app/static/js/787.c9cd8fe5.chunk.js",
+    "index.html": "/camera-app/index.html",
+    "static/media/videocam_black_24dp.svg": "/camera-app/static/media/videocam_black_24dp.753a7ff00b25ed6f64131999bceda79b.svg",
+    "main.c2bbc23d.css.map": "/camera-app/static/css/main.c2bbc23d.css.map",
+    "main.e9a0a123.js.map": "/camera-app/static/js/main.e9a0a123.js.map",
+    "787.c9cd8fe5.chunk.js.map": "/camera-app/static/js/787.c9cd8fe5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2bbc23d.css",
+    "static/js/main.e9a0a123.js"
+  ]
+}
